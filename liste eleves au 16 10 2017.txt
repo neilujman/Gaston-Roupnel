@@ -1,0 +1,25 @@
+Étiquettes de lignes;Effectif;PP
+3 1;26;M. RIGOLLET Julien
+3 2;28;M. SLASSI Rachid
+3 3;27;Mme SAUGE Carine
+3 4;16;Mme RABU  Karine
+3 5;28;Mme DELESSE Isabelle
+3 6;28;Mme LOUSAS-PEYRAT Françoise
+4 1;26;Mme BERGERET Sophie
+4 2;25;M. MATHEY Pierre
+4 3;15;Mme RABU  Karine
+4 4;24;M. DUVERNOIS
+4 5;26;Mme THIERRY Bénédicte
+4 6;26;M. OCTOBON Robert
+5 1;30;Mme CHARPIAT Hélène
+5 2;16;M. LATHULIERE Éric
+5 3;30;M. MARTIN Jean-Luc
+5 4;28;Mme FALCO Amandine
+5 5;29;Mme ROY Caroline
+6 1;15;M. GROSSI Luc
+6 2;26;Mme VANVOSTHUYSE Anne
+6 3;26;Mme SIMONIN-RICHARD Catherine
+6 4;27;Mme FRANÇOIS Véronique
+6 5;27;Mme LACORDAIRE DEVILLARD Stéphanie
+ULIS;12;Mme CHEYLUS GIRTZ Nadine
+Total général;;
